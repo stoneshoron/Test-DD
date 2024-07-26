@@ -92,3 +92,4 @@ if __name__ == "__main__":
     write_to_file(combined_playlist, output_file, include_credits)
 
     print("Combined and filtered playlist written to", output_file)
+
